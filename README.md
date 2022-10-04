@@ -2,6 +2,9 @@
 
 This microservice is inspired by our first [CULT Playmate](https://twitter.com/Peer2peerE/status/1555561893665902594?s=20&t=dz4HiwAUiOARUeQ52Q9z0Q).  
 
+There might be synergies with [onlycultfans.org](https://onlycultfans.org/) - see also [this repo](https://github.com/cultfamily-on-github/cult-video-conferencing-microservice) and the [integration in the cultmagazine.org](https://cultmagazine.org#onlycultfans).
+
+
 In order to strengthen resilience, scalability, composability and technological freedom for contributors, we establish a microservices architecture. 
 
 Everyone is invited to foster the emergence of manifold architectures of freedom by contributing to this repository.
